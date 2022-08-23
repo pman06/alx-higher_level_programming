@@ -7,3 +7,5 @@
 2-print_alphabet.py - A program that prints the ASCII alphabet, in lowercase, not followed by a new line.
 
 3-print_alphabt.py - A program that prints the ASCII alphabet, in lowercase, not followed by a new line.
+
+4-print_hexa.py - A program that prints all numbers from 0 to 98 in decimal and in hexadecimal
