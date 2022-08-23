@@ -15,3 +15,5 @@
 6-concat.py - Source code to print `Welcome to Holberton School!`
 
 7-edges.py - Print out ranges of the work Holberton
+
+8-concat_edges.py - Source code to print object-oriented programming with Python, followed by a new line.
