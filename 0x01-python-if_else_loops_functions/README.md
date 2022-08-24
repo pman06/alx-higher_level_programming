@@ -17,3 +17,5 @@
 7-islower.py - A function that checks for lowercase character.
 
 8-uppercase.py - A function that prints a string in uppercase followed by a new line.
+
+9-print_last_digit.py - A function that prints the last digit of a number.
